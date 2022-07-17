@@ -74,7 +74,7 @@ Aim – To find articles which will go on to become popular with Machine Learnin
 ![image](https://user-images.githubusercontent.com/22790699/179383959-80833514-d299-4517-9594-d0bd190e998b.png)
 
 
-## Evaluation of model based on context of problem | Cost Matrix
+## Evaluation of model based on context of problem | Cost Matrix:
 
 *Identifying popular articles correctly will help in increasing the cost at which Advertisements are sold(True Positive)
 
@@ -99,4 +99,3 @@ Aim – To find articles which will go on to become popular with Machine Learnin
 * Form the 4 supervised learning models, random forest has the best profitability. (6.47 mil from 3 mil)
 
 ![image](https://user-images.githubusercontent.com/22790699/179383997-39022a4f-2b30-436a-ab99-d060517d1715.png)
-
