@@ -1,6 +1,11 @@
 # OnlineNewsPopularity
 Determining the popularity of online news articles prior to publication, based on weekdays, polarity of the words, and other features.
 
+•	Formulated ML models to anticipate the popularity of online articles prior to the article’s publication to help publishers generate higher hit rate for their content. Performed Principal Competent Analysis (PCA) to reduce the number of features.
+
+•	Built Naïve Bayes, Logistic Regression, KNN and Random Forest models, then added a Cost matrix at the final step to identify which model has the most profitability. The Random Forest model has the highest profitability of $6.47 M dollars.
+
+
 
 ## Problem:
 
